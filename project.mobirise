@@ -42,8 +42,8 @@
     ],
     "uniqCompNum": 5,
     "versionPublish": "4.10.3",
-    "favicon": "@PROJECT_PATH@/assets/images/download-128x114.png",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/1495781228-location-08.svg",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
