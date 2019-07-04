@@ -327,20 +327,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Piscina y vestidor",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/13-hall-de-entradap3090853-320x240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13-hall-de-entradap3090853-320x240-320x240.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Hall de entrada",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -425,25 +412,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/12-escalera-hierro-tres-nivelesp3090850-320x240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-escalera-hierro-tres-nivelesp3090850-320x240-320x240.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escalera de hierro tres niveles",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/unnamed-1280x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/unnamed-1280x960-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escalera de hierro",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/12-escalera-hierro-tres-nivelesp3090850-320x240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-escalera-hierro-tres-nivelesp3090850-320x240-320x240.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Detalle de escalera de hierro",
                 "active": false
               },
               {
