@@ -42,7 +42,7 @@
     ],
     "uniqCompNum": 5,
     "versionPublish": "4.10.3",
-    "favicon": "@PROJECT_PATH@/assets/images/002-eco-house.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/download-128x114.png",
     "noImageResize": ""
   },
   "pages": {
