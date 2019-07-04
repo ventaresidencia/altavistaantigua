@@ -228,8 +228,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/05-biblioteca-p3090848-320x240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/05-biblioteca-p3090848-320x240-320x240.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-3-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-3-1280x960-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -325,7 +325,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Escalera hierro tres niveles",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -423,13 +423,39 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/20-p3090899-320x240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20-p3090899-320x240-320x240.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unnamed-1280x960-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Detalle escalera hierro",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vitral-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vitral-1280x960-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Vestíbulo con puerta de vitral ",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/segundo-piso-biblioteca-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/segundo-piso-biblioteca-1280x960-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Segundo nivel de biblioteca",
+                "active": false
               }
             ]
           }
