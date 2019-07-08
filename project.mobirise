@@ -200,6 +200,19 @@
                 "active": false
               },
               {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/hall-de-entrada-854x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hall-de-entrada-854x1280-800x1199.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Vestíbulo primer nivel ",
+                "active": false
+              },
+              {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -217,8 +230,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/04-salap3090839-540x405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/04-salap3090839-540x405-540x405.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sala.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sala-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -326,7 +339,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Piscina y vestidor",
+                "caption": "Piscina y gazebo",
                 "active": true
               },
               {
@@ -444,19 +457,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Acercamiento de vitral ",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/hall-de-entrada-854x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hall-de-entrada-854x1280-800x1199.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Vestíbulo con puerta de vitral ",
                 "active": false
               }
             ]
